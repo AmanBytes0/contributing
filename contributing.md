@@ -1,28 +1,46 @@
-# Contributing Guidelines
+# Code of Conduct
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+## Our Pledge
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
 
-## Table of Contents
-* [Code of Conduct](#code-of-conduct)
-* [How Can I Contribute?](#how-can-i-contribute)
-* [Style Guides](#style-guides)
+---
 
-## Code of Conduct
-By participating, you are expected to uphold our community standards: be respectful, inclusive, and open to feedback.
+## Our Standards
+Examples of behavior that contributes to a positive environment include:
+- Being respectful and inclusive
+- Accepting constructive criticism
+- Reporting bugs responsibly
+- Contributing bug fixes
+- Suggesting improvements
+- Proposing enhancements
+- Sharing ideas to improve the project
 
-## How Can I Contribute?
-### Reporting Bugs
-Before creating bug reports, please check the existing issues to see if the problem has already been reported. When reporting, include:
-* A clear and descriptive title.
-* Steps to reproduce the bug.
-* Expected vs. actual behavior.
+Examples of unacceptable behavior include:
+- Harassment or discrimination
+- Offensive or abusive language
+- Trolling or insulting comments
 
-### Pull Requests
-1. Fork the repo and create your branch from `main`.
-2. If you've added code that should be tested, add tests.
-3. Ensure the test suite passes.
-4. Issue that pull request!
+---
 
-## Style Guides
-* **Git Commit Messages:** Use the imperative mood (e.g., "Fix bug" instead of "Fixed bug").
-* **Documentation:** Ensure all new features are documented in the README.
+## Enforcement Responsibilities
+Project maintainers are responsible for clarifying and enforcing standards.
+
+---
+
+## Scope
+This Code of Conduct applies within all community spaces.
+
+---
+
+## Enforcement
+Instances of abusive behavior may be reported to the project maintainers.
+
+---
+
+## Enforcement Guidelines
+Maintainers will take appropriate actions such as warnings or bans if necessary.
+
+---
+
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant.
